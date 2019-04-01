@@ -9,7 +9,6 @@ Partiendo de:
 Se pide
 
 ```sh
-
 (1) ¿Qué entendiste? Demuestra que tienes claro el tema.
 Explicalo de tal forma que cualquiera pueda entenderlo,
 mencionando también los beneficios de usarlo.
